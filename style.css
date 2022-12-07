@@ -1,0 +1,11 @@
+/*Agregar estilo al body*/
+
+body{
+     background-color: rgb(234, 249, 255);
+     color:rgb(122, 76, 230)
+    
+}
+/* Selectores de clase. Inician con un punto (.)*/
+.LISTA-DE-CANCIONES-ALBUM-PARIS-TEXAS {
+     color:rgb(124, 65, 218)
+}
